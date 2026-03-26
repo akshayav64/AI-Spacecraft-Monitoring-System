@@ -1,6 +1,12 @@
  AI-Spacecraft-Monitoring-System
  AI-based anomaly detection and predictive failure system using NASA datase
  AI-Based Spacecraft Monitoring System
+ Project Highlights
+
+- Real-time anomaly detection
+- Predictive failure analysis using LSTM
+- AI-based decision support system
+- Interactive dashboard visualization
 
  Overview
 This project detects anomalies and predicts failures in spacecraft systems using AI models.
@@ -29,4 +35,4 @@ Output
 Includes anomaly detection, confusion matrix, and performance metrics.
 
 Author
-Akshaya Vanchinathan
+-Akshaya Vanchinathan
